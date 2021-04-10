@@ -1,0 +1,38 @@
+what is integration?
+integration is also known as middleware, enterpric appln inter,enter service bus, roa:- resource 
+
+API:- is a interfacee between clint and server 
+
+VETO
+validate
+enrich
+transform
+operate
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GitHub account - https://github.com  :done
+
+1. Git installed - https://git-scm.com/downloads  :done 
+
+2. webMethods Service Designer - https://tech.forums.softwareag.com/t/guide-to-download-and-install-webmethods-service-designer-free-download/235210 :done
+
+Please understand the usage of Math services - https://documentation.softwareag.com/webmethods/microservices_container/msc10-5/10-5_MSC_PIE_webhelp/index.html#page/integration-server-integrated-webhelp%2FMath%2520folder2.html%23wwconnect_header
+gone throuh it
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+SQL Server Developer Edition & Management Studio - https://www.microsoft.com/en-gb/sql-server/sql-server-downloads :done
+
+done simpl calc programs
+1 add
+2 multiplay
+3 subtract
+4 div
+________________________________________________________________________________________________________________________________________________________________________
+
+ 1 MAP	 (IF - Do ***)
+
+ 2 Branch (Condition ?)
+
+ 3 DeleteLogfile on GitBush
+
+now doing loop and repeat
+
